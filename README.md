@@ -1,4 +1,4 @@
-## Simple shell Colaboration projects
+## Simple Shell Colaboration Projects
 
 ## Description
 
@@ -68,4 +68,4 @@ exit error:
 
 ## Authors
 - `Taiwo Abiodun` taiwobiodun@gmail.com
-- `Abiodun Ogunremi` @gmail.com
+- `Abiodun Ogunremi` jonero82@gmail.com
