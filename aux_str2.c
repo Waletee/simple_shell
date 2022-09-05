@@ -5,6 +5,7 @@
  * @s: Type char pointer str
  * Return: duplicated str
  */
+ 
 char *_strdup(const char *s)
 {
 	char *new;
